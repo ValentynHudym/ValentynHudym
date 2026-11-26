@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/valentyn-hudym/"><img src="https://img.shields.io/badge/LinkedIn-E4572E?style=flat-square&logo=linkedin&logoColor=EEE7DA&labelColor=151515" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=flat-square&labelColor=151515" alt="Email"></a>
+  <a href="mailto:hudymvalentyn6@gmail.com"><img src="https://img.shields.io/badge/Email-1E3A8A?style=flat-square&labelColor=151515" alt="Email"></a>
   <img src="https://img.shields.io/badge/Lutsk,_UA-Remote-F2C14E?style=flat-square&labelColor=151515" alt="Lutsk, Ukraine · Remote">
 </p>
 
