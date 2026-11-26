@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Valentyn Hudym — Senior Full-Stack Engineer" width="100%">
+    <img src="./banner%20(1).png" alt="Valentyn Hudym — Senior Full-Stack Engineer" width="100%">
 </p>
 
 <p align="center">
